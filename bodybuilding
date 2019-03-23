@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/details.css">
+<style> 
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 100%;
+}
+</style>
+</head>
+<body style="	background:url(Image/background.jpg);background-size:100% ;background-repeat:repeat;  ">
+	<div class="av">
+		<header>
+			
+			<div class="bad">
+				<ul class="na">
+					<li><a href="#img"><img id="img" src=Image/logo.png /></a></li>
+					
+					<li><a href="index.php" style="margin-top:40px;">Home</a></li>
+					
+					<li><a href="contact.html" style="margin-top:40px;">Contact</a></li>
+					<li><a href="about.html" style="margin-top:40px;">About</a></li>
+					<li style="margin-top:41px;"><div class="dropdown">
+							<button class="dropbtn">Categories
+							  <i class="fa fa-caret-down"></i>
+							</button>
+							<div class="dropdown-content">
+							  <a href="weightloss.html">WEIGHT LOSS</a>
+							  <a href="bodybuilding.html">BODY BUILDING</a>
+							  <a href="fitnessmaintain.html">FITNESS MAINTAIN</a>
+							  <a href="cardio.html">CARDIO</a>
+							</div>
+						</div> </li>
+					
+					<li style="float:right;margin-top:40px;"><a href="login.html">Login</p></a></li>
+					<li style="float:right;margin-top:40px;" ><a href="register.html">Register</p></a></li>
+					<li style="float:right;margin-top:40px;">
+						<form  >
+						<input type="text" name="search" placeholder="Search..">
+					
+						</form>
+					</li>
+				</ul>
+			
+			</div>
+		</header>
+		
+	</div>
+	<h1><center><b>BURGER</b></center></h1>
+	<div id ="data">
+    <table style="width: 100%;
+    height: 50%;
+	border: 2px solid red  ;">
+        <tr>
+			<td style="border: 3px solid red; width: 25% ;"><p><b><center>Foods</center></b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>Description</center></b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>price<center></b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"></td>
+		</tr>
+		<tr>
+			<td style="border: 3px solid red; width: 25% ;"><img width="325" height="200" src="Image\FOODS\BURGER\Tandoori-Chicken-Burger-1.jpg" ><p><b><center>Tandoori Chicken Burger</center></b></p> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b>with Charcoal grilled Tandoori chicken breast with cheese, onion, tomato and lettuce with a mix of raita and mint chutney.</b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>Rs.480.00<center></b></p></a> </td>
+			
+			<td style="border: 3px solid red  ; width: 25% ;" align="center"><br/><br/><a href="burger.php"><input style="font-size:24px;"class="button"  type="submit" value="ADD"  /></a></td>
+		</tr>
+		
+		<tr>
+			<td style="border: 3px solid red; width: 25% ;"><img width="325" height="200" src="Image\FOODS\BURGER\Texas-Chicken-Burger-1.jpg" ><p><b><center>  Texas Chicken Burger</center></b></p> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>with Crumbed, deep fried strips of chicken breast with cheese, onion, tomato, lettuce and mayonnaise.</center></b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>Rs.550.00<center></b></p></a> </td>
+
+			<td style="border: 3px solid red  ; width: 25% ;" align="center"><br/><br/><a href="burger.php"><input style="font-size:24px;"class="button"  type="submit" value="ADD"  /></a></td>
+		</tr>
+		<tr>
+			<td style="border: 3px solid red; width: 25% ;"><img width="325" height="200" src="Image\FOODS\BURGER\Beef-Stake-Burger-1.jpg"><p><b><center>Beef Steak Burger</center></b></p> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b>with Slices of Charcoal Grilled lean beef steak with cheese, onion, tomato, gherkin and lettuce with our creamy mustard sauce.</b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>Rs.600.00<center></b></p></a> </td>
+
+			<td style="border: 3px solid red  ; width: 25% ;" align="center"><br/><br/><a href="burger.php"><input style="font-size:24px;"class="button"  type="submit" value="ADD"  /></a></td>
+		</tr>
+		<tr>
+			<td style="border: 3px solid red; width: 25% ;"><img width="325" height="200" src="Image\FOODS\BURGER\Beef-Burger-with-Cheese.jpg" ><p><b><center> Beef Burger with Cheese</center></b></p> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b>with Served with tomato, onion, lettuce and creamy mustard sauce.</b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>Rs.450.00<center></b></p></a> </td>
+
+			<td style="border: 3px solid red  ; width: 25% ;" align="center"><br/><br/><a href="burger.php"><input style="font-size:24px;"class="button"  type="submit" value="ADD"  /></a></td>
+		</tr>
+		<tr>
+			<td style="border: 3px solid red; width: 25% ;"><img width="325" height="200" src="Image\FOODS\BURGER\Fish-Burger-1.jpg" ><p><b><center> Fish Burger</center></b></p> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b>with Pattie made from fresh Thalapath (Sword fish), with our own seasoning, cheese, onion, tomato, lettuce and mayonnaise.</b></p></a> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b><center>Rs.400.00<center></b></p></a> </td>
+
+			<td style="border: 3px solid red  ; width: 25% ;" align="center"><br/><br/><a href="burger.php"><input style="font-size:24px;"class="button"  type="submit" value="ADD"  /></a></td>
+		</tr>
+		<tr>
+			<td style="border: 3px solid red; width: 25% ;"><img width="325" height="200" src="Image\FOODS\BURGER\Chicken Burger.jpg" ><p><b><center>  CHICKEN BURGER</center></b></p> </td>
+			<td style="border: 3px solid red  ; width: 25% ;"><p><b>Even though berry season is only a few short weeks out of the year, frozen berries smoothie allow to enjoy the sweet taste of summer year round.</b></p></a> </td>
+			<td style="border: 3px solid red ; width: 25% ;"><p><b><center>Rs.450.00<center></b></p></a> </td>
+
+			<td style="border: 3px solid red  ; width: 25% ;" align="center"><br/><br/><a href="burger.php"><input style="font-size:24px;"class="button"  type="submit" value="ADD"  /></a></td>
+		</tr>
+		
+		
+		
+    </table>
+
+</div>
+
+	
+
+</body>
+</html>

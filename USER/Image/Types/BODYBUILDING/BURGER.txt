@@ -1,0 +1,45 @@
+1. Tandoori Chicken Burger
+	(
+		with Charcoal grilled Tandoori chicken breast with cheese, onion, tomato and lettuce with a mix of raita and mint chutney.
+
+		Rs, 480
+	)
+
+2. Texas Chicken Burger
+	(
+		with Crumbed, deep fried strips of chicken breast with cheese, onion, tomato, lettuce and mayonnaise.
+
+		Rs. 550
+
+	)
+
+3. Beef Steak Burger
+	(
+		with Slices of Charcoal Grilled lean beef steak with cheese, onion, tomato, gherkin and lettuce with our creamy mustard sauce.
+
+		Rs. 600
+
+	)
+
+4. Beef Burger with Cheese
+	(
+		with Served with tomato, onion, lettuce and creamy mustard sauce.
+
+		Rs. 450
+
+	)
+
+5. Fish Burger
+	(
+		with Pattie made from fresh Thalapath (Sword fish), with our own seasoning, cheese, onion, tomato, lettuce and mayonnaise.
+
+		Rs. 550
+	)
+
+6. CHICKEN BURGER
+	(
+		with Batter Fried Crispy Chicken Tender And Juicy Mixed With Mayonnaise And Onion Served On Toasted Sesame Seed Bun.
+
+		Rs. 450
+
+	)

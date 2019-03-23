@@ -1,0 +1,75 @@
+1. Chicken Bacon Pizza
+	(
+		Chicken bacon, onions & green chillies with a double layer of mozzarella cheese.
+
+			 PP	M	L
+		Rs.	480	940	1670
+	)
+
+2. Cheese Lovers Pizza
+	(
+		Rich tomato sauce with a triple layer of mozzarella cheese.
+
+			 PP	M	L
+		Rs.	480	940	1670
+
+	)
+
+3. Sausage Delight pizza
+	(
+		Chicken sausages & onions with a double layer of mozzarella cheese. 
+
+			 PP	M	L
+		Rs.	480	940	1670
+
+	)
+
+4. Tandoori chicken Pizza
+	(
+		Tandoori chicken & onions with a double layer of mozzarella cheese.
+
+		 	PP	M	L
+		Rs.	480	940	1670
+
+	)
+
+5. Beef Pepperoni Pizza
+	(
+		Australian beef pepperoni in pizza sauce with a double layer of mozzarella cheese.
+
+			PP	M	L
+		Rs.	560	1070	1890
+	)
+
+6. Meat Lovers Pizza
+	(
+		Chicken bacon, chicken sausage, BBQ chicken, spicy chicken with a double layer of mozzarella cheese.
+
+			PP	M	L
+		Rs.	560	1070	1890
+
+	)
+
+7. Paneer Tikka Masala
+	(
+		Flavoursome and creamy Paneer Tikka Masala along with a layer of cream cheese, fresh olives and onions sprinkled with coriander leaves and a layer of Mozzarella cheese.
+
+			PP	M	L
+		Rs.	530	975	1710	
+	)
+
+8. Fiery Wasabi Chicken Pizza.
+	(
+		A Pan Pizza with a flavorful wasabi sauce, fresh prawns, crunchy spring onions and topped with mozzarella cheese. 
+		
+			PP	M	L
+		Rs.	530	975	1710
+	)
+
+9. Double Chicken And Cheese Fiesta Pizza
+	(
+		A combination  of spicy chicken and kotchchi sausage meat with crunchy onions and jalapenos placed on a layer of cream cheese and a layer of mozzarella.
+
+			PP	M	L
+		Rs.	530	975	1710
+	)
